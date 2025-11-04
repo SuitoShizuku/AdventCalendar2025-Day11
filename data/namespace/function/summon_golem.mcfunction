@@ -1,0 +1,1 @@
+summon minecraft:iron_golem ~ ~ ~ {equipment:{saddle:{id:"saddle",components:{"minecraft:enchantments":{"namespace:attack_detection":1}}}}}
